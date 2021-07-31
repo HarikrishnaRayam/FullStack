@@ -27,7 +27,6 @@ const findOdd = function(){
        oddNumbers.push(arr[i]);
     }
   }
-  return;
 }
 
 findOdd(arr);
@@ -44,7 +43,6 @@ const findOdd = (function(){
        oddNumbers.push(arr[i]);
     }
   }
-  return;
 })();
 
 // findOdd(arr);
