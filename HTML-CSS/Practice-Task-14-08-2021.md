@@ -1,43 +1,41 @@
-# [Guvi Zen](https://www.guvi.io/zen/)
 
 ## HTML Task to know usage of basic tags.
 
 1. Fix the bugs in below snippet
 
 ```HTML
-    <html lang="en">
-    <head>
-        <title>Document
-            <body>
-                guvi
-        </title>
-    </head>
+   <html lang="en">
+  <head>
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>guvi</h1>
     <div>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-        <div>
-            <div>
-                Guvi Geek Network
-            </div>
-        </body>
-    </html>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+    </div>
+    <div>
+      <h2>Guvi Geek Network</h2>
+    </div>
+  </body>
+</html>
 ```
 2. Try the below one
 
 ```HTML
 <html lang="en">
-    <head>
-        <title>Document
-            <body>
-                guvi
-    </head>
+  <head>
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>guvi</h1>
     <div>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-        <div>
-            <div>
-                Guvi Geek Network
-            </div>
-        </body>
-    </html>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+    </div>
+    <div>
+      <h2>Guvi Geek Network</h2>
+    </div>
+  </body>
+</html>
 ```
 
 ---
