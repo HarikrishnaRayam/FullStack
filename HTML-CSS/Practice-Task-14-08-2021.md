@@ -149,7 +149,27 @@
 ---
 
 6. In the form, add two radio buttons with grouping them for employee type(Salaried and own business)
+```HTML
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <form action="/action_page.php">
+      <p>Please select employmee Type:</p>
+        <input type="radio" id="sal" name="fav_language" value="SAL" />  
+      <label for="sal">Salaried</label><br />
+        <input type="radio" id="busn" name="fav_language" value="BUSN" />  
+      <label for="busn">Own Business</label><br />
+    </form>
+  </body>
+</html>
 
+```
 ---
 
 7. Design form shown in the link (http://evc-cit.info/cit040/formguide/card_0.png)
