@@ -87,7 +87,47 @@
   - MySQL
   - MongoDB
   - Cansandra
-
+```HTML
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <ul>
+      <li style="list-style-type: disc">Programming Languages</li>
+      <ul>
+        <li>JavaScript</li>
+        <ol type="a">
+          <li>Angular</li>
+          <li>React</li>
+          <li>Vue.js</li>
+        </ol>
+        <li>Python</li>
+        <ol type="a">
+          <li>Django Framework</li>
+          <li>Flask Framework</li>
+        </ol>
+        <li>Java</li>
+        <ol type="a">
+          <li>Spring</li>
+          <li>Maven</li>
+          <li>Hibernate</li>
+        </ol>
+      </ul>
+      <li style="list-style-type: disc">Database</li>
+      <ul>
+        <li>MySQL</li>
+        <li>MongoDB</li>
+        <li>Cansandra</li>
+      </ul>
+    </ul>
+  </body>
+</html>
+```
 ---
 
 5. Create an element that helps you to open the https://google.com in separate new tab.
